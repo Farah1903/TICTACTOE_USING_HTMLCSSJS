@@ -91,13 +91,13 @@ nav ul{
 #reset:hover{
 	background-color: rgb(241, 230, 250);
 }
-.line{
+/*.line{
 	background-color: black;
 	height: 3px;
 	width: 0;
 	position: absolute;
 	background-color: whitesmoke;
-	transition: width 1s ease-in-out;
+	transition: width 1s ease-in-out;*/
 }
 @media screen and (max-width: 950px)
 {
